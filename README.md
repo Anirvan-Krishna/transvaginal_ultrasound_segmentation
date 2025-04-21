@@ -19,17 +19,8 @@ These techniques are integrated into the training pipeline to leverage both labe
 
 ## References 
 
-- **BYOL: Bootstrap Your Own Latent**  
-  Grill, J.-B., Strub, F., Altché, F., Tallec, C., Richemond, P., Buchatskaya, E., Doersch, C., Pires, B., Guo, Z., Azar, M. G., Piot, B., Kavukcuoglu, K., Munos, R., & Valko, M. (2020).  
-  *Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning*.  
-  [Link](https://arxiv.org/abs/2006.07733)
+- Grill, J.-B., Strub, F., Altché, F., Tallec, C., Richemond, P., Buchatskaya, E., Doersch, C., Pires, B., Guo, Z., Azar, M. G., Piot, B., Kavukcuoglu, K., Munos, R., & Valko, M. (2020). *Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning*. [Link](https://arxiv.org/abs/2006.07733)
 
-- **SimMIM: A Simple Framework for Masked Image Modeling**  
-  Xie, Z., Zhang, Z., He, X., Lin, Y., & Dai, J. (2022).  
-  *SimMIM: A Simple Framework for Masked Image Modeling*.  
-  [Link](https://arxiv.org/abs/2111.09886)
+- Xie, Z., Zhang, Z., He, X., Lin, Y., & Dai, J. (2022). *SimMIM: A Simple Framework for Masked Image Modeling*. [Link](https://arxiv.org/abs/2111.09886)
 
-- **Vision Transformers (ViT)**  
-  Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., & Houlsby, N. (2020).  
-  *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*.  
-  [Link](https://arxiv.org/abs/2010.11929)
+- Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., & Houlsby, N. (2020). *An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*. [Link](https://arxiv.org/abs/2010.11929)
